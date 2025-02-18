@@ -1,4 +1,4 @@
-# Extract Excel Files
+# Excel-MediaExtractor
 
 This Python script extracts tables, images, and embedded files (such as PDFs) from an Excel file and saves them in a specified output folder.
 
